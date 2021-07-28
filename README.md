@@ -36,7 +36,7 @@ There are 3 notebooks available to showcase work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711) and in the PDF JS_results.pdf . This results show that in IT industry all around the globe the feeling of the level of average job satisfaction is very close no matter of the gender, education degree, salary, company size, ....  
+The main findings of the code can be found at the post available [here]https://alireza-kfz.medium.com/what-developers-job-satisfaction-tells-us-to-be-a-software-developer-or-not-to-be-eff264f610cb) and in the PDF JS_results.pdf . This results show that in IT industry all around the globe the feeling of the level of average job satisfaction is very close no matter of the gender, education degree, salary, company size, ....  
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
